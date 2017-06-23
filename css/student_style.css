@@ -1,3 +1,5 @@
+
+
 /* Albert Einstein's styles */
 
 #einstein {
@@ -34,3 +36,15 @@
 }
 
 /* Place your styles below this line */
+/* Jackie styles */
+#jackie {
+  background-image: url('https://68.media.tumblr.com/21c2ff099ce50cc52c63731d68bddb68/tumblr_on6kpnupE61tfmrz4o1_500.gif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
